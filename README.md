@@ -73,9 +73,20 @@ We chose **UNet++** for its dense connections that enhance gradient flow and str
 
 ## 📊 Results & Visuals
 
-Here are some **sample outputs** from our best models. Full results are available in the 📑 [slides](https://github.com/priyanshujiiii/SimLAB/blob/main/Notebook/Seismic%20Image%20Labarortory.pdf):
+Based on our experiments, the following encoder backbones performed best when paired with the UNet++ decoder for seismic image denoising:
 
-![Sample Result](./results/best_model_example.png)
+- ✅ **RexNet**
+- ✅ **DenseNet**
+- ✅ **EfficientNetV2**
 
+### 📸 Visual Results of Top Performers
+
+| Model           | Sample Output |
+|----------------|---------------|
+| **RexNet**      | ![RexNet Result](./results/rexnet_result.png) |
+| **DenseNet**    | ![DenseNet Result](./results/densenet_result.png) |
+| **EfficientNetV2** | ![EffNetV2 Result](./results/efficientnetv2_result.png) |
+
+📑 [View Full Slide Deck with All Experiments (PDF)](https://github.com/priyanshujiiii/SimLAB/blob/main/Notebook/Seismic%20Image%20Labarortory.pdf)
 ---
 
