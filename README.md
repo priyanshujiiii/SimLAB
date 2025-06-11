@@ -1,4 +1,4 @@
-# 🔍 Deep Research on Pretrained Model Performance for Seismic Image Denoising
+# 🔍 Survey on Pretrained Model Performance for Seismic Image Denoising
 
 This project conducts an in-depth study of how various **pretrained image classification models** perform when used as **encoders** for seismic image **denoising** tasks. Our architecture follows an **encoder-decoder** structure where:
 
