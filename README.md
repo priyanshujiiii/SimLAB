@@ -73,7 +73,7 @@ We chose **UNet++** for its dense connections that enhance gradient flow and str
 
 ## 📊 Results & Visuals
 
-Here are some **sample outputs** from our best models. Full results are available in the [📑 project slide deck](/Notebook/Seismic Image Labarortory.pdf):
+Here are some **sample outputs** from our best models. Full results are available in the [📑 project slide deck](./Notebook/Seismic Image Labarortory.pdf):
 
 ![Sample Result](./results/best_model_example.png)
 
