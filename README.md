@@ -79,6 +79,3 @@ Here are some **sample outputs** from our best models. Full results are availabl
 
 ---
 
-## 📁 Project Structure
-
--- Notebooks
