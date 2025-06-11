@@ -84,11 +84,11 @@ Based on our experiments, the following encoder backbones performed best when pa
 | Model           | Sample Output |
 |----------------|---------------|
 | **RexNet**      | (![image](https://github.com/user-attachments/assets/84d1bdb5-e210-4a12-b78e-4c87dac46d92)
- |
+ )|
 | **DenseNet**    | (![image](https://github.com/user-attachments/assets/0f3b7690-4323-4264-b2f3-bfbe290f62e3)
- |
+ )|
 | **EfficientNetV2** | (![image](https://github.com/user-attachments/assets/e6f42080-fb64-4d2f-a7bd-0d2f5d27813c)
- |
+ )|
 
 📑 [View Full Slide Deck with All Experiments (PDF)](https://github.com/priyanshujiiii/SimLAB/blob/main/Notebook/Seismic%20Image%20Labarortory.pdf)
 ---
